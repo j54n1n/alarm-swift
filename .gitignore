@@ -1,0 +1,5 @@
+# Arch Linux Build System Files
+*.pkg.tar.xz
+*.tar.gz
+src/
+pkg/
